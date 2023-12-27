@@ -9,4 +9,4 @@ Curso de Geo Python con base en el curso de "Welcome to Geo-Python 2023!" en la 
 2. El segundo cambio fue borrar celdas innecesarias.
 
 
-3. En el tercer cambio se agrega
+3. En el tercer cambio se agregó una nueva celda con el enlace al curso.
