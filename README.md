@@ -2,7 +2,7 @@
 
 Curso de Geo Python con base en el curso de "Welcome to Geo-Python 2023!" en la Universidad de Helsinki.
 
-Este repositorio es parte de las pruebas para generar nuestros primeros repositorios en
+Este repositorio es parte de las pruebas para generar nuestros primeros repositorios en *GitHub*
 
 1. Este es mi primer cambio en el repositorio
 
